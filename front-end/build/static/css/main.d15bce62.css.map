@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d15bce62.css","mappings":"AAAA,KACE,YACF,CAEA,YAEE,aAAc,CADd,eAEF","sources":["index.css"],"sourcesContent":[".App {\r\n  display: flex;\r\n}\r\n\r\n#slide-menu {\r\n  min-width: 150px;\r\n  max-width: 20%;\r\n}\r\n"],"names":[],"sourceRoot":""}
